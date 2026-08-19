@@ -120,7 +120,7 @@ button,input,select,textarea{font:inherit;color:inherit;}
   position:sticky;top:0;z-index:60;background:var(--pure-white);
   border-bottom:1px solid var(--border-grey);
 }
-.nav{display:flex;align-items:center;gap:var(--s4);height:128px;}
+.nav{display:flex;align-items:center;gap:var(--s4);height:90px;}
 .brand{display:flex;align-items:center;flex:none;}
 .brand img{height:100px;width:auto;}
 .nav-links{display:flex;align-items:center;gap:28px;margin-left:44px;}
